@@ -1,0 +1,7 @@
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\Grego\documents\visual studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
